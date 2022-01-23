@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-sharma-0036051a7/)](https://www.linkedin.com/in/mohit-sharma-0036051a7/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohit Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-sharma-0036051a7/)](https://www.linkedin.com/in/mohit-sharma-0036051a7/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.google.com)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/16500194/mohit-sharma)
 
